@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Josue\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Josue\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SegundoExamenParcial.1684145516.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Josue\Desktop\Segundo Examen Parcial\SegundoExamenParcial" t="IncludeRecursive">
+      <e p="AddresBD.cs" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CambiarContraseña.cs" t="Include" />
+      <e p="CambiarContraseña.Designer.cs" t="Include" />
+      <e p="CambiarContraseña.resx" t="Include" />
+      <e p="ConexionBD.cs" t="Include" />
+      <e p="Direccion.cs" t="Include" />
+      <e p="DireccionUser.cs" t="Include" />
+      <e p="DireccionUser.Designer.cs" t="Include" />
+      <e p="DireccionUser.resx" t="Include" />
+      <e p="EmpresasUser.cs" t="Include" />
+      <e p="EmpresasUser.Designer.cs" t="Include" />
+      <e p="EmpresasUser.resx" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="IniciarSesion.cs" t="Include" />
+      <e p="IniciarSesion.Designer.cs" t="Include" />
+      <e p="IniciarSesion.resx" t="Include" />
+      <e p="Negocio.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OrdenClass.cs" t="Include" />
+      <e p="OrdenUSer.cs" t="Include" />
+      <e p="OrdenUSer.Designer.cs" t="Include" />
+      <e p="OrdenUSer.resx" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Producto.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="SegundoExamenParcial.csproj" t="IncludeRecursive" />
+      <e p="SegundoExamenParcial.sln" t="IncludeFlat" />
+      <e p="Usuario.cs" t="Include" />
+      <e p="UsuarioBd.cs" t="Include" />
+      <e p="UsuarioNormal.cs" t="Include" />
+      <e p="UsuarioNormal.Designer.cs" t="Include" />
+      <e p="UsuarioNormal.resx" t="Include" />
+    </e>
+  </component>
+</project>
